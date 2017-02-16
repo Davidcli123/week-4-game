@@ -1,0 +1,26 @@
+.container {
+  background-image: url(../images/background.png);
+}
+
+.title {
+  text-align: center;
+  color: #fefffc;
+  font-size: 70px;
+}
+
+.text {
+  
+  text-align: left;
+}
+
+.btn-default {
+  margin: 15px;
+}
+
+#stats {
+  text-align: left;
+}
+
+#score {
+  text-align: left;
+}
